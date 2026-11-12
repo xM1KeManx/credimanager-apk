@@ -1,4 +1,4 @@
-# CrediManager APK
+# Kobrate APK
 
 Aqui vive solo el instalador de la app movil de CrediManager (sin codigo).
 
